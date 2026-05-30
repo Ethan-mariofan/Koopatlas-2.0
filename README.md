@@ -72,6 +72,10 @@ By: Ethan Mallie
 
 
 
+Original newer smbw code:    https://github.com/Newer-Team/NewerSMBW
+
+
+
 
 
 &#x09;
