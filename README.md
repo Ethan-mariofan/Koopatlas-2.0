@@ -74,7 +74,7 @@ By: Ethan Mallie
 
 Original newer smbw code:    https://github.com/Newer-Team/NewerSMBW
 
-
+if editing code refer to the build instructions
 
 
 
